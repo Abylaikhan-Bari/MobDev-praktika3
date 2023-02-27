@@ -43,7 +43,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Animated Widgets Demo'),
+        title: Text('Ushinshi praktika'),
       ),
       body: Center(
         child: Column(
